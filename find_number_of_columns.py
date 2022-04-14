@@ -14,6 +14,6 @@ def find_number_of_columns(data):
 
 
 # Read the csv file
-f = open('data.csv')
-data = csv.reader(f)
-print(find_number_of_columns(list(data)))
+# f = open('data.csv')
+# data = csv.reader(f)
+# print(find_number_of_columns(list(data)))
