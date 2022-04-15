@@ -13,4 +13,5 @@ def get_first_column(data):
     return res
 
 
+
 # Read the csv file
