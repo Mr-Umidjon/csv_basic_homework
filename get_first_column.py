@@ -9,7 +9,7 @@ def get_first_column(data):
     data = data.split('\n')
     res = []
     for i in data:
-        res.append(i.split('\n')[0])
+        res.append(i.split(',')[0])
     return res
 
 
