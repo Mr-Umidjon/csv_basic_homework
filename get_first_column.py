@@ -12,4 +12,5 @@ def get_first_column(data):
         res.append(i.split('\n')[0])
     return res
 
+
 # Read the csv file
